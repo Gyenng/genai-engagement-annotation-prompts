@@ -29,8 +29,3 @@ therefore subject to copyright restrictions.
 
 For further information, please contact the authors.
 
-## Citation
-
-Please cite the accompanying article when using these materials:
-
-[Full citation to be added after publication]
