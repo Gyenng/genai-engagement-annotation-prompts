@@ -6,10 +6,10 @@ for theory-driven annotation of Engagement in V-that constructions.
 
 ## Repository structure
 
-- `prompts/FSA/`
+- `prompt for FSA/Full_System_Baseline.md`
   - Full-System Annotation prompt containing the seven Engagement categories examined in the study.
 
-- `prompts/CSA/`
+- `prompts for CSA`
   - Seven category-specific prompts for:
     - ACKNOWLEDGE
     - CONCUR
