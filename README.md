@@ -19,9 +19,6 @@ for theory-driven annotation of Engagement in V-that constructions.
   - Category-Specific Annotation (CSA) prompts for the seven Engagement categories examined in the study.
 
 ## Notes
-
-The prompts are provided exactly as used in the reported experiments.
-
 Other experimental materials are not publicly deposited because they
 contain source text extracted from published research articles and are
 therefore subject to copyright restrictions.
